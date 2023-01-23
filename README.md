@@ -4,13 +4,13 @@
 
 
 
-##Learning Objectives
+## Learning Objectives
 
-*Creating queue and sending messages to it
-*Using Cloud9 and CLI to interact with SQS
+* Creating queue and sending messages to it
+* Using Cloud9 and CLI to interact with SQS
 
-###Prerequisites
-*AWS account
+### Prerequisites
+* AWS account
 
 
 
