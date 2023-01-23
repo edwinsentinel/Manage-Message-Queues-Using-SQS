@@ -5,6 +5,7 @@
 
 
 ##Learning Objectives
+
 *Creating queue and sending messages to it
 *Using Cloud9 and CLI to interact with SQS
 
